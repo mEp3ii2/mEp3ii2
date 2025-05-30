@@ -78,3 +78,8 @@ I am a Full Stack Developer 🌏 from Australia.
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mEp3ii2&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mEp3ii2&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter" />
+</p>
+
