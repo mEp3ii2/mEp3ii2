@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://path_to_your_image_or_gif" alt="My banner image"/>
+  <img src="./work-computer.gif" alt="My banner image"/>
 </p>
 
 <h1 align="center">👋 Hey there, I'm Mitchell - Final Year Software Engineer</h1>
