@@ -10,7 +10,7 @@
 
 I am a Full Stack Developer 🌏 from Australia.
 
-- 🔭 I’m currently working on [Toga Web Backend](https://github.com/beeware/toga) .
+- 🔭 I’m currently working on [Toga Web Backend](https://github.com/beeware/toga) as part of my final year capstone project .
 - 🌱 I’m currently learning React and modern web development.
 - 👯 I’m looking for a graduate job.
 ---
