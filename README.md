@@ -2,26 +2,26 @@
   <img src="./work-computer.gif" alt="My banner image"/>
 </p>
 
-<h1 align="center">👋 Hey there, I'm Mitchell - Final Year Software Engineer</h1>
+<h1 align="center"> Hey there, I'm Mitchell - Final Year Software Engineer</h1>
 
 ---
 
-## 🧑‍💻 About Me :
+## About Me :
 
-I am a Full Stack Developer 🌏 from Australia.
+I am a Full Stack Developer from Australia.
 
-- 🔭 I’m currently working on [Toga Web Backend](https://github.com/beeware/toga) as part of my final year capstone project .
-- 🌱 I’m currently learning React and modern web development.
-- 👯 I’m looking for a graduate job.
+- I’m currently working on [Toga Web Backend](https://github.com/beeware/toga) as part of my final year capstone project .
+- I’m currently learning React and modern web development.
+- I’m looking for a graduate job.
 ---
 
-## 📫 How to reach me:
+##  How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mitchell-pontague-1b6b95230/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge)](mailto:pontague.mitchell@gmail.com) 
 
 ---
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
