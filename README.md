@@ -2,7 +2,7 @@
   <img src="./work-computer.gif" alt="My banner image"/>
 </p>
 
-<h1 align="center"> Hey there, I'm Mitchell - Final Year Software Engineer</h1>
+<h1 align="center"> Hey there, I'm Mitchell - Software Engineering Grad</h1>
 
 ---
 
